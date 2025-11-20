@@ -1,2 +1,2 @@
-magic_number = 67
+magic_number = 54
 
